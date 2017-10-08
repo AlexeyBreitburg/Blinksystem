@@ -11,6 +11,7 @@ sudo pip3 удалить gtts pygame colorama wget
 - Легко для людей
 - Открытый для разработчиков
 - Бесплатно для использования
+
 Чтобы загрузить систему из GitHub, используйте следующую команду:
 ```
 git clone https://github.com/Blinkhub/blinkSystem.git
