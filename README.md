@@ -1,17 +1,17 @@
-**BlinkSystem** – This is the Python script system that is used in the Blinkbox game console. All scripts are oriented to the architecture of ARM, or to be more precise for the Raspberry Pi / Orange Pi microcomputer. To start, recommend the user name **blink**, and use at least a minimal Debian assembly with full kernel functionality, also requires Python version 3.4 or higher. You must install libraries that are used in scripts. You can install all the libraries using this command:
+**BlinkSystem** - это скриптовая система Python, которая используется в игровой консоли Blinkbox. Все сценарии ориентированы на архитектуру ARM или, точнее, на микрокомпьютер Raspberry Pi / Orange Pi. Чтобы начать, рекомендуйте имя пользователя **blink** и используйте хотя бы минимальную сборку Debian с полной функциональностью ядра, также требуется Python версии 3.4 или выше. Вы должны установить библиотеки, которые используются в скриптах. Вы можете установить все библиотеки, используя следующую команду:
 ```
 sudo pip3 install gtts pygame colorama wget
 ```
-Also remove installed libraries you can using this command:
+Также удалите установленные библиотеки, вы можете использовать эту команду:
 ```
-sudo pip3 remove gtts pygame colorama wget
+sudo pip3 удалить gtts pygame colorama wget
 ```
-We stick to the ideas:
-- Easy for people
-- Open for developers
-- Free to use
+Мы придерживаемся идей:
 
-To download system from GitHub, use this command:
+- Легко для людей
+- Открытый для разработчиков
+- Бесплатно для использования
+Чтобы загрузить систему из GitHub, используйте следующую команду:
 ```
 git clone https://github.com/Blinkhub/blinkSystem.git
 ```
