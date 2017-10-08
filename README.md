@@ -10,3 +10,8 @@ We stick to the ideas:
 - Easy for people
 - Open for developers
 - Free to use
+
+To download system from GitHub, use this command:
+```python
+print("Welcome")
+```
