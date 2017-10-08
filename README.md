@@ -12,6 +12,6 @@ We stick to the ideas:
 - Free to use
 
 To download system from GitHub, use this command:
-```python
-print("Welcome")
+```
+git clone https://github.com/Blinkhub/blinkSystem.git
 ```
